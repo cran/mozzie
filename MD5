@@ -1,0 +1,11 @@
+a1011a970988159e203d28c4fce6d70e *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+96aec286ab2d54ff3aa129ef87a80714 *R/data.R
+b74161e2681311c3ef50809ad16123a8 *README.md
+b0941a66376226fe8d771f620df9c337 *build/vignette.rds
+4c81c0fb1dcfd3be6efc5191e074acc3 *data/mozzie.rda
+b029fc203b49f5411e336a8187716882 *inst/doc/mozzie.R
+64ac10388320e9c2d8ccca9879c545c5 *inst/doc/mozzie.Rmd
+a64e0208d513fcd1d64596f74b601efd *inst/doc/mozzie.html
+81f1cfdb3674b17adcbc07e6fbae45b4 *man/mozzie.Rd
+64ac10388320e9c2d8ccca9879c545c5 *vignettes/mozzie.Rmd
